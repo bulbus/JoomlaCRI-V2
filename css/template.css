@@ -740,6 +740,10 @@ div#jform_catid_chzn.chzn-container, div#jform_catid_chzn.chzn-container div.chz
 }
 body {
   background: #efefef !important;
+  font-family: 'Open Sans', sans-serif;
+}
+strong {
+  font-weight: 900;
 }
 body section {
   margin-top: 90px;
