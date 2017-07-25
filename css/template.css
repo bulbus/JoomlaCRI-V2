@@ -743,6 +743,7 @@ body {
 }
 body section {
   margin-top: 90px;
+  font-size: 16px;
 }
 .dropdown .dropdown-menu {
   -webkit-transition: all 0.6s;
