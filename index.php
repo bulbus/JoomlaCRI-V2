@@ -3,7 +3,7 @@
 # author Gonzalo Suez
 # copyright Copyright © 2013 gsuez.cl. All rights reserved.
 # @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-# Website http://www.gsuez.cl - TEST GIT
+# Website http://www.gsuez.cl
 -------------------------------------------------------------------------*/    // no direct access
 defined('_JEXEC') or die;
 include 'includes/params.php';
